@@ -1,0 +1,25 @@
+/* MMM-Tasks Styles */
+
+/* Wrapper styles */
+.MMM-Tasks {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    max-width: 300px; /* Adjust width as needed */
+  }
+  
+  /* List styles */
+  .MMM-Tasks ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* List item styles */
+  .MMM-Tasks li {
+    margin-bottom: 5px;
+  }
+  
+  /* Loading message styles */
+  .MMM-Tasks.loading {
+    color: #ffffff;
+  }
+  
